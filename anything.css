@@ -1,6 +1,6 @@
 body {
     background-color: #000000;
-    color: #3500D3;
+    color: #0e6b0e;
     font-family: 'Playfair Display', serif;
     font-size: 2rem;
 }
@@ -47,7 +47,8 @@ hr {
 }
 
 .navbar-brand {
-    font-family: 'Sevillana', cursive;
+    color: #0e6b0e;
+    font-family: 'Playfair Display', serif;
     font-size: 2.5rem;
     font-weight: bold;
 }
@@ -57,8 +58,9 @@ hr {
 }
 
 .nav-link {
+    color: #0e6b0e;
     font-size: 1.2rem;
-    font-family: 'Sevillana', cursive;
+     font-family: 'Playfair Display', serif;
 }
 
 .row {
